@@ -205,7 +205,7 @@ small{
     background-color:transparent;
     border:none;
     }
-    .bar{
+    .bar {
     width: 20px;
     height: 1px;
     display: block;
@@ -219,7 +219,6 @@ small{
     }
     .bar_mid{
     top: 50%;
-    transform: translate(-50%,-50%);
     }
     .bar_bottom{
     bottom: 10px;
